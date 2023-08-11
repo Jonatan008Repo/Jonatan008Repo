@@ -7,9 +7,9 @@
 
 - 🔭 Actualmente trabajo [Niku tecnología](www.niku.com.mx)
 
-- 📝 Escribo artículos sobre tecnologia [https://jonatan008.com/myblog/](https://jonatan008.com/myblog/)
+- 📝 Escribo artículos sobre tecnologia [https://jonatan.com.mx/myblog/](https://jonatan.com.mx/myblog/)
 
-- 📫 Como contactarme **maker@jonatan008.com**
+- 📫 Como contactarme **maker@jonatan.com.mx**
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/jonatan008/](https://www.linkedin.com/in/jonatan008/)
 
