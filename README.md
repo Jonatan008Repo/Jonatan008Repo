@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonatan008repo" alt="jonatan008repo" /></a> </p>
 
-- 🔭 Actualmente trabajo [Niku tecnología](www.niku.com.mx)
+- 🔭 ULtimo trabjo  [Boookmart](www.bookmart.com.mx)
 
 - 📝 Escribo artículos sobre tecnologia [https://jonatan.com.mx/myblog/](https://jonatan.com.mx/myblog/)
 
