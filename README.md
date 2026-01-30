@@ -20,7 +20,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+
 ## Lenguajes y herramientas
+
 <table>
   <tr>
     <td align="center" width="110">
@@ -281,6 +283,13 @@
        <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>
        <br />
        <sub><b>bitbucket</b></sub>
+      </a>
+    </td>
+     <td align="center" width="110">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
+       <br />
+       <sub><b>typescript</b></sub>
       </a>
     </td>
   </tr>
