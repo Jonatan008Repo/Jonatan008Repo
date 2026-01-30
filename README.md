@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonatan008repo" alt="jonatan008repo" /></a> </p>
 
-- 📝 Escribo artículos sobre tecnologia [https://jonatan.com.mx/myblog/](https://jonatan.com.mx/myblog/)
+//- 📝 Escribo artículos sobre tecnologia [https://jonatan.com.mx/myblog/](https://jonatan.com.mx/myblog/)
 
 - 📫 Como contactarme **maker@jonatan.com.mx**
 
