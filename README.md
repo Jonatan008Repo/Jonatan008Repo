@@ -260,9 +260,23 @@
     </td>
     <td align="center" width="110">
       <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
-       <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="visual code" width="40" height="40" />
+       <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jqury" width="40" height="40" />
        <br />
        <sub><b>jquery</b></sub>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://json.org/json-es.html" target="_blank" rel="noopener noreferrer">
+       <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40" />
+       <br />
+       <sub><b>Json</b></sub>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://bitbucket.org" target="_blank" rel="noopener noreferrer">
+       <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"  style="background-color: #ffffff;"/>
+       <br />
+       <sub><b>bitbucket</b></sub>
       </a>
     </td>
   </tr>
