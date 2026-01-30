@@ -2,9 +2,13 @@
 <!-- cspell:ignore Jonatan Vergara Escobar jonatan008repo arduino cplusplus figma linux postgresql laravel mssql aws gcp -->
 <h1 align="center">Hola, yo soy Jonatan Vergara Escobar</h1>
 <h3 align="center">Desarrollador web, creador de contenido, un ferviente científico de la computación.</h3>
+
 ## Sobre mí
+
 - 📄 Jonatan es un desarrollador de software con más de 17 años de experiencia en tecnología, especializado en realidad aumentada y en constante actualización a través de formación continua.
+
 ## Conecta conmigo
+
 <p align="left">
   <a href="https://twitter.com/_jonatan008" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -274,7 +278,7 @@
     </td>
     <td align="center" width="110">
       <a href="https://bitbucket.org" target="_blank" rel="noopener noreferrer">
-       <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"  style="background-color: #e31515;"/>
+       <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>
        <br />
        <sub><b>bitbucket</b></sub>
       </a>
