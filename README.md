@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-- 📄 Conoce mis experiencias: [LinkedIn](https://www.linkedin.com/in/jonatan008/)
+- 📄 Jonatan es un desarrollador de software con más de 17 años de experiencia en tecnología, especializado en realidad aumentada y en constante actualización a través de formación continua.
 
 ## Conecta conmigo
 
