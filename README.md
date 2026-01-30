@@ -274,7 +274,7 @@
     </td>
     <td align="center" width="110">
       <a href="https://bitbucket.org" target="_blank" rel="noopener noreferrer">
-       <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"  style="background-color: #ffffff;"/>
+       <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"  style="background-color: #e31515;"/>
        <br />
        <sub><b>bitbucket</b></sub>
       </a>
