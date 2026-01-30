@@ -238,7 +238,7 @@
     </td>
     <td align="center" width="110">
       <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+        <!-- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> -->
         <br />
         <sub><b>Adobe XD</b></sub>
       </a>
@@ -252,10 +252,27 @@
     </td>
     <td align="center" width="110">
       <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" />
         <br />
         <sub><b>Laravel</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
+  <td align="center" width="110">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual code" width="40" height="40" />
+     <br />
+     <sub><b>Visual studio code</b></sub>
+    </a>
+  </td>
+  <td align="center" width="110">
+    <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="visual code" width="40" height="40" />
+     <br />
+     <sub><b>jquery</b></sub>
+    </a>
+  </td>
+  <td></td>
   </tr>
 </table>
