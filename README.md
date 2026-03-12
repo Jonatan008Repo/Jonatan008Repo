@@ -1,3 +1,5 @@
+<!-- @format -->
+
 <!-- markdownlint-disable MD033 -->
 <!-- cspell:ignore Jonatan Vergara Escobar jonatan008repo arduino cplusplus figma linux postgresql laravel mssql aws gcp -->
 <h1 align="center">Hola, yo soy Jonatan Vergara Escobar</h1>
@@ -6,6 +8,10 @@
 ## Sobre mí
 
 - 📄 Jonatan es un desarrollador de software con más de 17 años de experiencia en tecnología, especializado en realidad aumentada y en constante actualización a través de formación continua.
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/mi_sitio_web-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jonatan008repo.github.io/)
 
 ## Conecta conmigo
 
@@ -291,16 +297,25 @@
        <br />
        <sub><b>typescript</b></sub>
       </a>
-    </td><td align="center" width="110">
+    </td>
+    <td align="center" width="110">
       <a href="#" target="_blank" rel="noopener noreferrer">
        <br />
        <sub><b>Assembler</b></sub>
       </a>
     </td>
+    <td align="center" width="110">
+      <a href="https://github.com/features/copilot?locale=es-419" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="Github Copilot" width="40" height="20">
+        <br />
+        <sub><b>Github Copilot</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
+## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=%40Jonatan008Repo&theme=yeblu&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jonatan008Repo&theme=yeblu&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatan008Repo&theme=yeblu&show_icons=true&hide_border=true&layout=compact)
