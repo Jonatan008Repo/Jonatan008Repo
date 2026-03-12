@@ -302,3 +302,5 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=%40Jonatan008Repo&theme=yeblu&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatan008Repo&theme=yeblu&show_icons=true&hide_border=true&layout=compact)
