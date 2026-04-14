@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- cspell:ignore Jonatan Vergara Escobar jonatan008repo arduino cplusplus figma linux postgresql laravel mssql aws gcp -->
 <h1 align="center">Hola, yo soy Jonatan Vergara Escobar</h1>
-<h3 align="center">Desarrollador web, creador de contenido, un ferviente científico de la computación.</h3>
+<h3 align="center">Full-Stack Developer y ferviente científico de la computación.</h3>
 
 ## Sobre mí
 
